@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Free Warrior Giveaway</string>
+    <string name="giveaway_title">FREE WARRIOR\nGIVEAWAY</string>
+    <string name="giveaway_subtitle">20,000 DIAMONDS</string>
+    <string name="giveaway_reward_tag">Giveaway Reward</string>
+    <string name="btn_get_link">GET LINK</string>
+    <string name="hero_subtitle">Join thousands of warriors claiming their daily bounty. Limited time offer for active players only.</string>
+    <string name="footer_copyright">© 2023 FREE WARRIOR GIVEAWAY</string>
+    <string name="footer_rights">All rights reserved.</string>
+    <string name="form_title">Warrior Claim Form</string>
+    <string name="player_name_label">Player Name</string>
+    <string name="euid_label">EUID (Game ID)</string>
+    <string name="level_label">Account Level</string>
+    <string name="mobile_number_label">Mobile Number</string>
+    <string name="btn_submit_claim">Submit &amp; Get Code</string>
+    <string name="verification_title">Verification Code</string>
+    <string name="verification_desc">This code is generated and sent by the admin; the user cannot type or modify it.</string>
+    <string name="btn_copy_code">Copy Code</string>
+    <string name="code_copied">Code copied to clipboard!</string>
+    <string name="disclaimer_note">Disclaimer: This unique 8-digit verification code is generated directly by the admin server for your 20,000 Diamonds redemption. Please present this code or keep it safe. Diamonds will be credited within 24-48 hours once verified by the administrator.</string>
+    <string name="admin_login_title">Admin Login</string>
+    <string name="admin_username">Username</string>
+    <string name="admin_password">Password</string>
+    <string name="admin_login_btn">Sign In as Admin</string>
+    <string name="admin_dashboard_title">Warrior Admin Portal</string>
+    <string name="tab_overview">Overview</string>
+    <string name="tab_otp_approval">OTP Approval</string>
+    <string name="tab_media_upload">Media Upload</string>
+</resources>

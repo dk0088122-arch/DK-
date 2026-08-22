@@ -1,0 +1,6 @@
+{
+  "name": "Free Warrior Giveaway",
+  "description": "Free Warrior Giveaway app featuring diamond giveaway claims, OTP verification, and an administrative management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
